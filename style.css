@@ -1,0 +1,30 @@
+.row1{
+    background-color: gray;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.container{
+    display: flex;
+    margin: 0;
+}
+.box1{
+    background-color: azure;
+    width: 28%;
+    height: 200px;
+}
+.box2{
+    background-color: rgb(230, 230, 230);
+    width: 72%;
+    
+    padding: 30px;
+}
+.row3{
+    background-color: blue; 
+    text-align: center;
+    padding: 30px;
+    margin-top: 0%;
+
+}
